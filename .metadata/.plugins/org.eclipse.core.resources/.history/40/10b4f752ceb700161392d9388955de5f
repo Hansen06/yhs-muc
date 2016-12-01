@@ -1,0 +1,12 @@
+package com.leetcode;
+
+public class TwoSum {
+	
+	public static void main(String[] args) {
+		TwoSum t = new TwoSum();
+		int[] numbers = {3,2,4};
+	}
+	
+	
+
+}
