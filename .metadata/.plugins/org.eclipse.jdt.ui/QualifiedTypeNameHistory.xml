@@ -4,4 +4,6 @@
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.awt.List"/>
 <fullyQualifiedTypeName name="com.leetcode.AddTwoNumbers.ListNode"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="com.lintcode.StringUtils524"/>
 </qualifiedTypeNameHistroy>
