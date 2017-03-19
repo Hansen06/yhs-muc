@@ -1,0 +1,12 @@
+package com.lintcode;
+
+public class BinarySum408 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	public String addBinary(String a, String b) {
+        // Write your code here
+    }
+}

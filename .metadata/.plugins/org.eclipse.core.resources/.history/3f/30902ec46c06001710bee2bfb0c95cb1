@@ -1,0 +1,14 @@
+package com.lintcode;
+
+public class BinarySum408 {
+
+	public static void main(String[] args) {
+		
+		String a = "111";
+		System.out.println(a.split("").length);
+	}
+	public String addBinary(String a, String b) {
+		
+		return b;
+    }
+}
